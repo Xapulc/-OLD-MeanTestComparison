@@ -1,0 +1,71 @@
+name,iter_num,0.001,0.005,0.01,0.05
+z-test,0,0,0,0,0
+"t-test, equal var = true",0,0,0,0,0
+"t-test, equal var = false",0,0,0,0,0
+"permutation test, mean stat",0,0,0,0,0
+"bootstrap, percentile method",0,0,0,0,0
+"bootstrap, basic method",0,0,0,0,0
+"bootstrap, bca method",0,0,0,0,0
+z-test,1,0,0,0,0
+"t-test, equal var = true",1,0,0,0,0
+"t-test, equal var = false",1,0,0,0,0
+"permutation test, mean stat",1,0,0,0,0
+"bootstrap, percentile method",1,0,0,0,0
+"bootstrap, basic method",1,0,0,0,0
+"bootstrap, bca method",1,0,0,0,0
+z-test,2,0,0,0,0
+"t-test, equal var = true",2,0,0,0,0
+"t-test, equal var = false",2,0,0,0,0
+"permutation test, mean stat",2,0,0,0,0
+"bootstrap, percentile method",2,0,0,0,0
+"bootstrap, basic method",2,0,0,0,0
+"bootstrap, bca method",2,0,0,0,0
+z-test,3,0,0,0,0
+"t-test, equal var = true",3,0,0,0,0
+"t-test, equal var = false",3,0,0,0,0
+"permutation test, mean stat",3,0,0,0,0
+"bootstrap, percentile method",3,0,0,0,0
+"bootstrap, basic method",3,0,0,0,0
+"bootstrap, bca method",3,0,0,0,0
+z-test,4,0,0,0,0
+"t-test, equal var = true",4,0,0,0,0
+"t-test, equal var = false",4,0,0,0,0
+"permutation test, mean stat",4,0,0,0,0
+"bootstrap, percentile method",4,0,0,0,0
+"bootstrap, basic method",4,0,0,0,0
+"bootstrap, bca method",4,0,0,0,0
+z-test,5,0,0,0,0
+"t-test, equal var = true",5,0,0,0,0
+"t-test, equal var = false",5,0,0,0,0
+"permutation test, mean stat",5,0,0,0,0
+"bootstrap, percentile method",5,0,0,0,0
+"bootstrap, basic method",5,0,0,0,0
+"bootstrap, bca method",5,0,0,0,0
+z-test,6,0,0,0,0
+"t-test, equal var = true",6,0,0,0,0
+"t-test, equal var = false",6,0,0,0,0
+"permutation test, mean stat",6,0,0,0,0
+"bootstrap, percentile method",6,0,0,0,0
+"bootstrap, basic method",6,0,0,0,0
+"bootstrap, bca method",6,0,0,0,0
+z-test,7,0,0,0,0
+"t-test, equal var = true",7,0,0,0,0
+"t-test, equal var = false",7,0,0,0,0
+"permutation test, mean stat",7,0,0,0,0
+"bootstrap, percentile method",7,0,0,0,0
+"bootstrap, basic method",7,0,0,0,0
+"bootstrap, bca method",7,0,0,0,0
+z-test,8,0,0,0,0
+"t-test, equal var = true",8,0,0,0,0
+"t-test, equal var = false",8,0,0,0,0
+"permutation test, mean stat",8,0,0,0,0
+"bootstrap, percentile method",8,0,0,0,0
+"bootstrap, basic method",8,0,0,0,0
+"bootstrap, bca method",8,0,0,0,0
+z-test,9,0,0,0,0
+"t-test, equal var = true",9,0,0,0,0
+"t-test, equal var = false",9,0,0,0,0
+"permutation test, mean stat",9,0,0,0,0
+"bootstrap, percentile method",9,0,0,0,0
+"bootstrap, basic method",9,0,0,0,0
+"bootstrap, bca method",9,0,0,0,0
